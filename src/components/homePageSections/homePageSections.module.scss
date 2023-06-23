@@ -1,0 +1,119 @@
+@import 'styles/vars';
+
+.title {
+  margin-bottom: 20px;
+  font-weight: 700;
+  font-size: 38px;
+  line-height: 130%;
+
+  @media screen and (min-width: 1280px) {
+    position: inherit;
+    // width: 1px;
+    // height: 1px;
+    // margin: -1px;
+    // padding: 0;
+    // overflow: hidden;
+    // border: 0;
+    // clip: rect(0 0 0 0);
+  }
+}
+
+.textWrap {
+  @media screen and (min-width: 1280px) {
+    max-width: 648px;
+    padding: 175px 0px 118px;
+  }
+}
+
+.textWrapSecond {
+  @media screen and (min-width: 1280px) {
+    flex: 1;
+  }
+}
+
+.textWrapThird {
+  @media screen and (min-width: 1280px) {
+    max-width: 392px;
+    padding: 121px 0;
+  }
+
+  @media screen and (min-width: 1920px) {
+    max-width: 466px;
+  }
+}
+
+.textWrapFourth {
+  @media screen and (min-width: 1280px) {
+    padding-top: 58px;
+  }
+}
+
+.text {
+  font-size: 16px;
+  line-height: 150%;
+
+  @media screen and (min-width: 1280px) {
+    font-size: 21px;
+    text-align: justify;
+  }
+}
+
+.btn {
+  margin-top: 60px;
+}
+
+.imgWrap {
+  max-width: 450px;
+
+  @media screen and (max-width: 1279px) {
+    margin: 0 auto;
+    padding: 0 16px;
+  }
+
+  @media screen and (min-width: 1280px) {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  }
+}
+
+.imgWrapSecond {
+  max-width: 375px;
+  margin: 0 auto;
+
+  @media screen and (min-width: 1280px) {
+    max-width: 536px;
+    flex: 1;
+  }
+}
+
+.imgWrapThird {
+  @media screen and (max-width: 1279px) {
+    max-width: 369px;
+    margin: 0 auto;
+  }
+
+  @media screen and (min-width: 1280px) {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+}
+
+.addImg {
+  max-width: 369px;
+  margin: 0 auto;
+
+  @media screen and (min-width: 1280px) {
+    display: none;
+  }
+}
+
+.imgWrapFourth {
+  max-width: 450px;
+  margin: 0 auto;
+
+  @media screen and (min-width: 1280px) {
+    grid-row: 3/-2;
+  }
+}

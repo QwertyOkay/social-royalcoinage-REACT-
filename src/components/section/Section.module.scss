@@ -1,0 +1,30 @@
+@import 'styles/vars';
+
+.section {
+  background-color: var(--color-primary);
+
+  @media screen and (max-width: 1279px) {
+    padding: 60px 0 0 0;
+    text-align: center;
+  }
+}
+
+.third {
+  composes: section;
+
+  @media screen and (max-width: 1279px) {
+    padding: 60px 0 60px 0;
+  }
+}
+
+.second {
+  composes: section;
+  background-color: var(--color-bcg);
+
+  @media screen and (max-width: 1279px) {
+    padding: 60px 0 60px 0;
+  }
+  @media screen and (min-width: 1280px) {
+    padding: 120px 0;
+  }
+}
