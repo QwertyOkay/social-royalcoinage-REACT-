@@ -11,13 +11,12 @@ function Fourth() {
       <Container variant="containerMainFourth">
         <div className={styles.textWrapFourth}>
           <p className={styles.text}>
-            As you traverse this enchanting realm, remember that the essence of
-            Slots Pharaoh lies in the spirit of adventure and the pursuit of
-            joy. It's a place where imagination reigns supreme, and where the
-            beauty of the journey outweighs any external measure of success. So
-            step into this wondrous world and let your spirit soar. The magic of
-            Slots Pharaoh awaits, ready to ignite your sense of wonder and set
-            your heart ablaze with joy.
+            Download Slots Lightning™ now and get ready to unleash your inner
+            high-roller. This game is a true testament to the electrifying world
+            of slot machines, offering non-stop entertainment, thrilling wins,
+            and a gaming experience that will keep you coming back for more.
+            Join the millions of players who have already discovered the magic
+            of Slots Lightning™ and get ready to be blown away!
           </p>
         </div>
         <div className={styles.imgWrapFourth}>
