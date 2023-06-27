@@ -1,7 +1,7 @@
 import { Helmet } from 'react-helmet-async';
 
-const TITLE = 'Royalcoinslot.com';
-const CONTENT = 'Free social game to play. Entertain yourself with us.';
+const TITLE = 'Royalcoinage.com';
+const CONTENT = 'Have a blast with a fun and free social game!';
 
 function HelmetHead() {
   return (

@@ -30,7 +30,7 @@ function Third() {
               type="image/png"
               media="(max-width: 1279px)"
             />
-            <img src={thirdImage} alt="The Game" />
+            <img className={styles.imgThird} src={thirdImage} alt="The Game" />
           </picture>
         </div>
       </Container>
