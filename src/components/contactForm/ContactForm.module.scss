@@ -43,10 +43,12 @@
 
   @media screen and (min-width: 1280px) {
     width: 50%;
-    background: rgb(255, 255, 255, 0.9);
+    background: rgb(164 176 234 / 58%);
     height: calc(100% - 40px);
     top: 20px;
     position: relative;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
   }
 }
 

@@ -54,7 +54,7 @@
 
   @media screen and (min-width: 1280px) {
     font-size: 21px;
-    text-align: justify;
+    // text-align: justify;
   }
 }
 
@@ -82,7 +82,7 @@
   margin: 0 auto;
 
   @media screen and (min-width: 1280px) {
-    max-width: 536px;
+    max-width: 450px;
     flex: 1;
   }
 }
@@ -120,6 +120,6 @@
 
 .imgThird {
   @media screen and (min-width: 1200px) {
-    max-width: 588px;
+    max-width: 525px;
   }
 }
