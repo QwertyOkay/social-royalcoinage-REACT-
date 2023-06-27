@@ -29,7 +29,7 @@ function Second() {
               type="image/png"
               media="(max-width: 1279px)"
             />
-            <img src={secondImage} alt="Slots Pharaoh's" />
+            <img src={secondImage} alt="The Game" />
           </picture>
         </div>
       </Container>

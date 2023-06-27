@@ -2,7 +2,7 @@ import Section from 'components/section/Section';
 import Container from 'components/container/Container';
 import thirdImage from 'images/third.png';
 import thirdImageMobile from 'images/thirdMobile.png';
-import thirdImageMobile1 from 'images/thirdMobile1.png';
+// import thirdImageMobile1 from 'images/thirdMobile1.png';
 import styles from './homePageSections.module.scss';
 
 function Third() {
@@ -30,11 +30,8 @@ function Third() {
               type="image/png"
               media="(max-width: 1279px)"
             />
-            <img src={thirdImage} alt="Slots Pharaoh's" />
+            <img src={thirdImage} alt="The Game" />
           </picture>
-        </div>
-        <div className={styles.addImg}>
-          <img src={thirdImageMobile1} alt="Slots Pharaoh's" />
         </div>
       </Container>
     </Section>

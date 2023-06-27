@@ -31,7 +31,7 @@ function Fourth() {
               type="image/png"
               media="(max-width: 1279px)"
             />
-            <img src={fourthImage} alt="Slots Pharaoh's" />
+            <img src={fourthImage} alt="The Game" />
           </picture>
         </div>
         <div className={styles.btnFourth}>
