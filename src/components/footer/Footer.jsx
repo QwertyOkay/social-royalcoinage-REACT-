@@ -26,11 +26,12 @@ function Footer() {
 
           <div className={styles.disclaimer}>
             <p>
-              Disclaimer: We would like to inform you that our platform offers
-              free social games to players over the age of 18. These games do
-              not provide monetary or tangible rewards, and it is important to
-              note that success in them does not imply success in "real money
-              gambling."
+              Disclaimer: the site is designed to provide free social games to
+              people aged 18 and up. We place a high value on responsible
+              gambling. Please be aware that our games are only for fun and do
+              not include any actual prizes or monetary rewards. It is critical
+              to note that success in free social casino games does not imply
+              success in "real money gambling."
             </p>
           </div>
           <div>

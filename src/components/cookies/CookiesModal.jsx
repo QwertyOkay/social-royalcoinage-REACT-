@@ -6,10 +6,10 @@ const Cookies = ({ showCookies }) => {
     <>
       <div className={styles.cookieBar}>
         <p className={styles.cookieText}>
-          We kindly seek your consent to use cookies as per our policies,
-          allowing you to proceed with accessing and exploring our website.
+          We use cookies to better understand your preferences and provide a
+          better experience.
         </p>
-        <Button title={'GOT IT'} onClick={() => showCookies()} />
+        <Button title={'OK'} onClick={() => showCookies()} />
       </div>
     </>
   );

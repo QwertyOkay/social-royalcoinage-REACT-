@@ -16,108 +16,110 @@ function PrivacyModal({ showPrivacy }) {
           <ModalTextWrap title={'Privacy Policy'}>
             <p>Introduction</p>
             <p>
-              This Privacy Policy ("Policy") outlines the procedures and
-              practices of Royalcoinslot ("we," "us," or "our") regarding the
-              collection, use, storage, and disclosure of personal information
-              obtained from users ("you" or "your") of our website. This Policy
-              applies to all products, services, and interactions provided by
-              Royalcoinslot.
+              This Privacy Policy describes how Royal Coinage ("we," "us," or
+              "our") collects, uses, and protects the personal information of
+              users ("you" or "your") when you visit or interact with our
+              website Royalcoinage.com ("Website"). We are committed to
+              safeguarding your privacy and ensuring the security of your
+              personal information. By using our Website, you consent to the
+              collection and use of your personal information as outlined in
+              this Privacy Policy.
             </p>
             <p>Information We Collect</p>
             <p>
-              Personal Information: We may collect personal information directly
-              from you when you visit our website, register an account, make a
-              purchase, subscribe to our newsletter, participate in surveys or
-              contests, or engage with our website's features. This may include
-              your name, email address, phone number, billing address, and
-              payment information.
+              Personal Information: We may collect personal information that you
+              voluntarily provide to us when you interact with our Website, such
+              as your name, email address and any other information you choose
+              to provide. Usage Information: We may automatically collect
+              certain information about your visit to our Website, including
+              your IP address, browser type, operating system, referring URLs,
+              pages visited, and the date and time of your visit. This
+              information helps us analyze trends, administer the Website, track
+              user movements, and gather demographic informatio
             </p>
+            <p>Use of Information</p>
             <p>
-              Non-Personal Information: We also gather non-personal information
-              automatically as you interact with our website. This includes your
-              IP address, browser type, operating system, referring URLs, and
-              other technical data. Such information is collected to improve our
-              services and enhance your user experience.
-            </p>
-            <p>Use of Collected Information</p>
-            <p>
-              Personal Information: We use your personal information for the
-              following purposes:
+              Personal Information: We may use the personal information you
+              provide to us for the following purposes:
             </p>
             <ul>
               <li>
-                a. To provide and personalize our services: We utilize your
-                information to fulfill your requests, process transactions, and
-                deliver relevant content and offerings tailored to your
-                preferences.
+                To provide and maintain our services, including responding to
+                your inquiries and fulfilling your requests.
               </li>
               <li>
-                b. Communication: We may contact you via email or other provided
-                contact details to respond to your inquiries, provide updates,
-                or share important information related to our services.
+                To personalize your experience on our Website and improve user
+                experience.
               </li>
               <li>
-                c. Marketing: With your consent, we may send you promotional
-                emails, newsletters, or other marketing communications about our
-                products, services, or special offers.
+                To send you promotional materials, newsletters, and other
+                communications related to our services.
+              </li>
+              <li>
+                To process transactions and complete orders for products or
+                services you purchase from us.
+              </li>
+              <li>
+                To comply with legal obligations, resolve disputes, and enforce
+                our agreements.
               </li>
             </ul>
             <p>
-              Non-Personal Information: Non-personal information is utilized for
-              statistical analysis, website improvement, and enhancing the
-              overall user experience. This information helps us understand user
-              preferences, trends, and patterns to optimize our services.
+              Usage Information: We may use the usage information collected to
+              analyze and improve the functionality and performance of our
+              Website, identify user preferences, and enhance user experience.
             </p>
-            <p>Data Security and Disclosure</p>
+            <p>Information Sharing</p>
             <p>
-              Data Security: We prioritize the security of your personal
-              information and employ industry-standard measures to protect it
-              against unauthorized access, disclosure, alteration, or
-              destruction. However, please note that no method of data
-              transmission over the internet or electronic storage is completely
-              secure, and we cannot guarantee absolute security.
+              Third-Party Service Providers: We may share your personal
+              information with trusted third-party service providers who assist
+              us in operating our Website, conducting our business, or providing
+              services to you. These service providers have access to your
+              personal information only as necessary to perform their functions
+              and are obligated to maintain its confidentiality. Legal
+              Compliance: We may disclose your personal information if required
+              by law, regulation, legal process, or governmental request, or to
+              protect our rights, property, or safety, as well as the rights,
+              property, or safety of our users or others.
             </p>
+            <p>Data Security</p>
             <p>
-              Disclosure of Information: We do not sell, trade, or rent your
-              personal information to third parties without your explicit
-              consent. However, we may share your information with trusted
-              service providers, partners, or affiliates who assist us in
-              delivering our services or conducting business operations on our
-              behalf. These entities are bound by confidentiality agreements and
-              will only access or use your information as necessary to fulfill
-              their designated tasks.
+              We implement reasonable security measures to protect your personal
+              information from unauthorized access, alteration, disclosure, or
+              destruction. However, no method of data transmission over the
+              internet or electronic storage is completely secure, and we cannot
+              guarantee absolute security of your information.
             </p>
-            <p>Third-Party Links and External Sites</p>
+            <p>Links to Third-Party Websites</p>
             <p>
-              Our website may contain links to third-party websites, services,
-              or resources that are not operated or controlled by us. We are not
-              responsible for the privacy practices or content of these external
-              sites. We encourage you to review the privacy policies and terms
-              of these third-party platforms before engaging with them.
+              Our Website may contain links to third-party websites. We have no
+              control over the content, privacy policies, or practices of these
+              websites. We encourage you to review the privacy policies of any
+              third-party websites you visit.
             </p>
-            <p>Policy Updates</p>
+            <p>Children's Privacy</p>
             <p>
-              We reserve the right to modify or update this Privacy Policy at
-              any time. The updated version will be posted on our website, and
-              the revised effective date will be indicated. It is your
-              responsibility to review this Policy periodically for any changes.
-              Your continued use of our services after the posting of any
-              modifications signifies your acceptance of the revised Policy.
+              Our Website is not intended for individuals under the age of 18.
+              We do not knowingly collect or solicit personal information from
+              anyone under the age of 18. If we become aware that we have
+              collected personal information from a child under the age of 18,
+              we will promptly delete it. If you believe that we have any
+              information from or about a child under the age of 18, please
+              contact us using the provided contact details.
+            </p>
+            <p>Changes to this Privacy Policy</p>
+            <p>
+              We reserve the right to update or modify this Privacy Policy at
+              any time. Any changes will be effective immediately upon posting
+              the revised Privacy Policy on our Website. We encourage you to
+              review this Privacy Policy periodically for any updates or
+              changes.
             </p>
             <p>Contact Us</p>
             <p>
-              We reserve the right to update or modify this Policy at any time.
-              We will notify you of any material changes to this Policy by
-              posting the updated version on our website or through other
-              reasonable means. Your continued use of our services after the
-              effective date of any changes to this Policy constitutes your
-              acceptance of such changes.
-            </p>
-            <p>Contact Us</p>
-            <p>
-              If you have any questions, concerns, or requests regarding this
-              Privacy Policy or the handling of your personal information,
-              please contact us.
+              If you have any questions, comments, or concerns regarding this
+              Privacy Policy or our privacy practices, please contact us at
+              supportteam@royalcoinage.com.
             </p>
           </ModalTextWrap>
         </Modal>

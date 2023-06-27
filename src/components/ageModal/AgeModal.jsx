@@ -7,11 +7,10 @@ function AgeModal({ showAgeModal }) {
     <Modal variant="ageModal" closeModal={() => showAgeModal(true)}>
       <div className={styles.text}>
         <p>
-          Please be aware that our platform provides engaging social games
-          without the use of real-money gambling or betting. These games are
-          intended for users who are at least 18 years old.
+          A free social game is now available! There will be no real-money
+          gambling or betting. Individuals over the age of 18.
         </p>
-        <p>Are you ready for the thrill?</p>
+        <p>Are you ready to start playing?</p>
       </div>
       <div className={styles.buttons}>
         <Button title={'YES'} onClick={() => showAgeModal(false)}></Button>

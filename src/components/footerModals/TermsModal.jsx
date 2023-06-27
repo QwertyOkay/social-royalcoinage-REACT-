@@ -14,40 +14,45 @@ function TermsModal({ showTerms }) {
           />
           <ModalTextWrap title={'Terms & Conditions'}>
             <p>
-              Please read these Terms and Conditions ("Terms") carefully before
-              accessing or using the Royalcoinslot website ("Website" or
-              "Service") operated by Royalcoinslot ("we," "us," or "our"). These
-              Terms apply to all visitors, users, and any other individuals or
-              entities accessing or using our Website.
-            </p>
-            <p>Acceptance of Terms</p>
-            <p>
-              By accessing or using our Website, you acknowledge that you have
-              read, understood, and agree to be bound by these Terms. If you do
-              not agree with any part of these Terms, you are not permitted to
-              use our Service.
-            </p>
-            <p>Use of the Website</p>
-            <p>
-              Eligibility: By accessing or using our Website, you represent and
-              warrant that you are at least 18 years old. Individuals below the
-              age of 18 are strictly prohibited from accessing or using our
-              Service.
-            </p>
-            <p>
-              License: Subject to these Terms, we grant you a limited,
-              non-exclusive, non-transferable, and revocable license to access
-              and use our Website for personal and non-commercial purposes. You
-              agree not to reproduce, modify, distribute, display, or exploit
-              any content on our Website without our prior written consent.
+              Please read these Terms and Conditions ("Agreement") carefully
+              before using the Royalcoinage.com website ("Website"). This
+              Agreement sets forth the legally binding terms and conditions for
+              your use of the Website. By accessing or using the Website, you
+              agree to be bound by this Agreement.
             </p>
             <p>Intellectual Property</p>
             <p>
-              Ownership: All content, trademarks, logos, and intellectual
-              property displayed on our Website are the exclusive property of
-              [Company Name] or its licensors. You may not use, modify,
-              reproduce, or distribute any of our intellectual property without
-              our prior written authorization.
+              Ownership: The Website and its original content, features, and
+              functionality are owned by Royal Coinage and are protected by
+              international copyright, trademark, patent, trade secret, and
+              other intellectual property or proprietary rights laws. Limited
+              License: Subject to your compliance with this Agreement, we grant
+              you a limited, non-exclusive, non-transferable, and revocable
+              license to access and use the Website for personal, non-commercial
+              purposes. Restrictions: You agree not to reproduce, distribute,
+              modify, create derivative works of, publicly display, publicly
+              perform, republish, download, store, or transmit any of the
+              material on our Website, except as permitted by this Agreement.
+            </p>
+            <p>User Responsibilities</p>
+            <p>
+              Prohibited Conduct: You agree not to engage in any conduct that
+              violates applicable laws, infringes upon the rights of others, or
+              interferes with the operation or security of the Website.
+              Prohibited conduct includes, but is not limited to:
+            </p>
+            <p>
+              Uploading or transmitting any unauthorized or harmful content.
+              Attempting to gain unauthorized access to the Website or its
+              servers. Interfering with or disrupting the Website or its
+              networks. Engaging in any activity that could damage, disable,
+              overburden, or impair the Website.
+            </p>
+            <p>
+              Account Registration: In order to access certain features of the
+              Website, you may be required to create an account. You are
+              responsible for maintaining the confidentiality of your account
+              information and for all activities that occur under your account.
             </p>
             <p>
               User Submissions: If you submit any content, feedback, or
@@ -56,47 +61,56 @@ function TermsModal({ showTerms }) {
               use, reproduce, modify, adapt, publish, translate, distribute, and
               display such submissions in any form or medium.
             </p>
-            <p>Disclaimer of Liability</p>
+            <p>Disclaimer of Warranty</p>
             <p>
-              Website Content: The information provided on our Website is for
-              general informational purposes only. We do not warrant the
-              accuracy, completeness, or reliability of any content or materials
-              on our Website. You acknowledge that the use of our Service is at
-              your own risk.
+              The Website is provided on an "as-is" and "as available" basis. We
+              make no representations or warranties of any kind, express or
+              implied, regarding the operation, availability, accuracy,
+              reliability, or suitability of the Website. To the fullest extent
+              permitted by law, we disclaim all warranties, including but not
+              limited to, implied warranties of merchantability and fitness for
+              a particular purpose.
             </p>
+
+            <p>Limitation of Liability</p>
             <p>
-              Limitation of Liability: To the maximum extent permitted by law,
-              we shall not be liable for any direct, indirect, incidental,
-              consequential, or punitive damages arising out of or in connection
-              with your use of our Website or any content or services provided
-              therein.
+              To the maximum extent permitted by law, Royal Coinage and its
+              affiliates, officers, directors, employees, agents, and partners
+              shall not be liable for any direct, indirect, incidental,
+              consequential, or special damages arising out of or in any way
+              connected with your use of the Website or the content contained
+              therein. This limitation of liability applies to all claims,
+              whether based on contract, tort, negligence, strict liability, or
+              any other legal theory.
             </p>
-            <p>Indemnification</p>
+            <p>Modifications</p>
             <p>
-              You agree to indemnify and hold harmless [Company Name], its
-              officers, directors, employees, and agents from and against any
-              claims, liabilities, damages, losses, costs, or expenses,
-              including attorney's fees, arising out of or in connection with
-              your use of our Website, violation of these Terms, or infringement
-              of any third-party rights.
+              We reserve the right to modify or replace this Agreement at any
+              time. Any changes will be effective immediately upon posting the
+              updated Agreement on the Website. Your continued use of the
+              Website after any such changes constitutes your acceptance of the
+              modified terms.
             </p>
             <p>Severability</p>
             <p>
-              If any provision of these Terms is deemed invalid or unenforceable
-              by a court of competent jurisdiction, the remaining provisions
-              shall remain in full force and effect.
+              If any provision of this Agreement is found to be invalid or
+              unenforceable, the remaining provisions shall be enforced to the
+              fullest extent permitted by law, and the unenforceable provision
+              shall be deemed modified to the extent necessary to make it
+              enforceable.
             </p>
             <p>Entire Agreement</p>
             <p>
-              These Terms constitute the entire agreement between you and
-              Royalcoinslot regarding the use of our Website and supersede any
-              prior or contemporaneous agreements or understandings, whether
-              oral or written.
+              This Agreement constitutes the entire agreement between you and
+              Royal Coinage regarding your use of the Website and supersedes all
+              prior and contemporaneous agreements, representations, and
+              understandings.
             </p>
             <p>Contact Us</p>
             <p>
               If you have any questions, comments, or concerns regarding these
-              Terms, please contact us.
+              Terms and Conditions, please contact us at
+              supportteam@royalcoinage.com.
             </p>
           </ModalTextWrap>
         </Modal>
