@@ -37,7 +37,12 @@ function ContactForm({ title }) {
       <p className={styles.formTitle}>{title}</p>
       <div className={styles.formWrapper} data-form>
         <div className={styles.formImg}>
-          <img src={contactImage} alt="email" width={260} />
+          <img
+            className={styles.formImgimg}
+            src={contactImage}
+            alt="email"
+            width={260}
+          />
         </div>
         <Formik
           initialValues={{
