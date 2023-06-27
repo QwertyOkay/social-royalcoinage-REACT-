@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import Header from 'components/header';
+// import Header from 'components/header';
 import { ToastContainer, Slide } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
@@ -21,7 +21,7 @@ const App = () => {
       <HelmetHead />
       {isOpenStop && <AgeModal showAgeModal={setIsOpenStop} />}
       <main>
-        <Header />
+        {/* <Header /> */}
         <Welcome />
         <Slots />
         <About />
